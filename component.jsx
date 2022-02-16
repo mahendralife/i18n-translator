@@ -6,3 +6,6 @@ const Home = () => {
   return (<div> {translate(title)}</div>)
 
 };
+      //chnage language dropdown    
+    //    i18n.changeLanguage(item.label);
+
